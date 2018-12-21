@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         toggleDrawer();
         initializeDefaultFragment(savedInstanceState,0);
         setDarkModeSwitchListener();
+
     }
 
     /**
@@ -161,7 +162,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             drawerLayout.closeDrawer(GravityCompat.START);
         }
     }
-
+    
     /**
      * Iterates through all the items in the navigation menu and deselects them:
      * removes the selection color
