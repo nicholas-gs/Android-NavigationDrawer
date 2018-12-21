@@ -13,7 +13,7 @@ This article will show you how to do the following:
 <img src="https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true" alt="minSdkVersion 21" data-canonical-src="https://img.shields.io/badge/minSdkVersion-24-red.svg?style=true" style="max-width:100%;"> <img src=https://img.shields.io/badge/compileSdkVersion-28-brightgreen.svg alt="compileSdkVersion 28" data-canonical-src="https://img.shields.io/badge/compileSdkVersion-27-yellow.svg?style=true" style="max-width:100%;">
 
 ## Navigation Drawer In Action
-
+![app-in-action](https://user-images.githubusercontent.com/39665412/50330890-d8ca7d80-0537-11e9-8f29-8baa3f630343.gif)
 ## Tutorial
 There is comprehensive documentation on how to implement a simple Navigation Drawer in Android [here](https://developer.android.com/training/implementing-navigation/nav-drawer), so I won't repeat it here. Instead, I will show how to add other features not covered in the documentation.
 ### 1. Navigate to other fragments
