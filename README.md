@@ -6,12 +6,13 @@ A Navigation Drawer is an excellent way to displaying your app's navigation opti
 This article will show you how to do the following:
 - Implement a simple Navigation Drawer as per standard [Navigation Drawer Design](https://developer.android.com/training/implementing-navigation/nav-drawer)
 - Handle navigation click events to navigate to other fragments
-- Add custom widgets to the Navigation Drawer and handle their click events:
-        1. [Switch Button](https://developer.android.com/reference/android/support/v7/widget/SwitchCompat)
-
+- Add custom [switch button](https://developer.android.com/reference/android/support/v7/widget/SwitchCompat) to the Navigation Drawer and handle the click events
+        
 <br>
-<img src="https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true" alt="minSdkVersion 21" data-canonical-src="https://img.shields.io/badge/minSdkVersion-24-red.svg?style=true" style="max-width:100%;"> <img src=https://img.shields.io/badge/compileSdkVersion-28-brightgreen.svg alt="compileSdkVersion 28" data-canonical-src="https://img.shields.io/badge/compileSdkVersion-27-yellow.svg?style=true" style="max-width:100%;">
+<img src="https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true" alt="minSdkVersion 21" data-canonical-src="https://img.shields.io/badge/minSdkVersion-24-red.svg?style=true" style="max-width:100%;">
 
+<img src=https://img.shields.io/badge/compileSdkVersion-28-brightgreen.svg alt="compileSdkVersion 28" data-canonical-src="https://img.shields.io/badge/compileSdkVersion-27-yellow.svg?style=true" style="max-width:100%;">
+</p>
 ## Navigation Drawer In Action
 ![app-in-action](https://user-images.githubusercontent.com/39665412/50330890-d8ca7d80-0537-11e9-8f29-8baa3f630343.gif)
 ## Tutorial
